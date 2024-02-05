@@ -8,7 +8,7 @@
     "@heroicons/react": "^2.0.18",
     "@reduxjs/toolkit": "^1.9.5",
     "@testing-library/user-event": "^13.5.0",
-    "banby-modal-customize-react": "^0.1.21",
+    "projectop-modal-customize-react": "^0.1.11",
     "react": "^18.2.0",
     "react-calendar": "^4.3.0",
     "react-data-table-component": "^7.5.3",

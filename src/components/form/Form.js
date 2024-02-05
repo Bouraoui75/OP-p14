@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import DatePicker from "components/datePicker/DatePicker";
 import { states } from "data/states.js";
 import departments from "data/departments";
-import { Modal } from "banby-modal-customize-react";
+import { Modal } from "projectop-modal-customize-react";
 import { useDispatch } from "react-redux";
 import { addEmployee } from "redux/actions.js";
 
